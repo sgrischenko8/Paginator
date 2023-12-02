@@ -14,14 +14,14 @@ The component takes four props
 
 Key:
 
-- buttons that are not needed at the moment are not shown;
-- minimalist settings;
-- button that navigates to last page show total page count;
-- option to work with an undefined total page count;
-
+* buttons that are not needed at the moment are not shown;
+* minimalist settings;
+* button that navigates to last page show total page count;
+* option to work with an undefined total page count;
 * needed to be set in a strictly defined place by margin or position to avoid
   jumping navigation buttons.
 
-Paginator.jsx ~ 7.03 kB; Paginator.module.css ~ 2.77 kB.
+Paginator.jsx ~ 7.03 kB; 
+Paginator.module.css ~ 2.77 kB.
 
 <a href="https://www.dropbox.com/scl/fi/7i4nib84nl0r0h939y5kw/Paginator.wmv?rlkey=p5izp0m1ljgszlklqu40w1709&dl=0" target="_blank">Video-demo:</a>
