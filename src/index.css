@@ -11,12 +11,6 @@ body {
   min-width: 320px;
 }
 
-#root {
-  display: flex;
-  flex-direction: column;
-  height: 450px;
-}
-
 form {
   padding: 10px;
   display: flex;
